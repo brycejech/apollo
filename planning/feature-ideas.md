@@ -1,7 +1,6 @@
 
 # Feature Ideas
 
----
 
 ## Core features
 
@@ -41,14 +40,12 @@ Message Ideas
 * Users acknowledge they've read the broadcast
 * Store messages that were broadcast in user history
 
----
 
 ## User Features
 
 ### User TODO Lists
 Help keep track of tasks that may not merit a ticket
 
----
 
 ## Interface Features
 
@@ -62,5 +59,3 @@ Graphs and charts of ticket data
 
 ### View Projects as Kanban Boards
 Everybody loves Kanban boards
-
----
