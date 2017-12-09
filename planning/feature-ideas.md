@@ -46,6 +46,11 @@ Message Ideas
 ### User TODO Lists
 Help keep track of tasks that may not merit a ticket
 
+### Mention Users
+Provide ability to @mention another user with typeahead feature in a comment
+
+On applicable pages, pre-load users that have access to a particular ticket for type-ahead
+
 
 ## Interface Features
 
